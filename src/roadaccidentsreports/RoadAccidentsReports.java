@@ -1,11 +1,5 @@
 
-/**
- * Question 1 
- * Test 1 Open Book
- * Sitting
- * Programming 1b Prog6112
- * @author tshibiti
- */
+
 package roadaccidentsreports;
 //import java.text.DecimalFormat;
 //import java.text.NumberFormat;
